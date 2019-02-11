@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahngaqu.hybeta.info/sitemap.xml
